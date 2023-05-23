@@ -1,0 +1,2 @@
+site:%s allintitle:"index of"
+site:%s filetype:txt OR filetype:db OR filetype:log OR filetype:csv Or filetype:bak OR filetype:backup OR filetype:rar OR filetype:zip OR filetype:gz OR filetype:bz OR filetype:bz2 OR filetype:sql OR filetype:xls OR filetype:pdf OR filetype:xml OR filetype:inc OR filetype:conf
